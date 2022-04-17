@@ -22,32 +22,47 @@ Java ile metin tabanlı bir macera oyunu
     <tr>
       <td valign="top" width="33%">
         <ul>
-          <li>Güvenli Ev</li>
-          <li>Özellik : Can Yenileniyor</li>
-          <li>Mağara</li>
-          <li>Canavar : Zombi (1-3 Adet)</li>
-          <li>Özellik : Savaş + Ganimet</li>
-          <li>Eşya : Yemek (Food)</li>
+          <li>Güvenli Ev
+            <ul>
+              <li>Özellik : Can Yenileniyor</li>
+            </ul>
+          </li>
+          <li>Mağara
+            <ul>
+              <li>Canavar : Zombi (1-3 Adet)</li>
+              <li>Özellik : Savaş + Ganimet</li>
+              <li>Eşya : Yemek (Food)</li>
+            </ul>
+          </li> 
         </ul>
       </td>
       <td valign="top" width="33%">
         <ul>
-          <li>Orman</li>
-          <li>Canavar : Vampir (1-3 Adet)</li>
-          <li>Özellik : Savaş + Ganimet</li>
-          <li>Eşya : Odun (Firewood)</li>
-          <li>Canavar : Ayı (1-3 Adet)</li>
-          <li>Özellik : Savaş + Ganimet</li>
+          <li>Orman
+            <ul>
+              <li>Canavar : Vampir (1-3 Adet)</li>
+              <li>Özellik : Savaş + Ganimet</li>
+              <li>Eşya : Odun (Firewood)</li>
+            </ul>
+          </li>
         </ul>
       </td>
       <td valign="top" width="33%">
         <ul>
-          <li>Nehir</li>
-          <li>Eşya : Su (Water)</li>
-          <li>Mağaza</li>
-          <li>Özellik : Destekleyici Eşyalar Satın Almak</li>
-          <li>Silah : Tabanca,Kılıç,Tüfek</li>
-          <li>Zırh : Hafif,Orta,Ağır</li>
+          <li>Nehir
+            <ul>
+              <li>Canavar : Ayı (1-3 Adet)</li>
+              <li>Özellik : Savaş + Ganimet</li>
+              <li>Eşya : Su (Water)</li>
+            </ul>
+          </li>
+          <li>Mağaza
+            <ul>
+              <li>Özellik : Destekleyici Eşyalar Satın Almak</li>
+              <li>Silah : Tabanca,Kılıç,Tüfek</li>
+              <li>Zırh : Hafif,Orta,Ağır</li>
+            </ul>
+          </li>     
         </ul>
       </td>
     </tr>
