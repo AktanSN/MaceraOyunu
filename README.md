@@ -70,7 +70,9 @@ Java ile metin tabanlı bir macera oyunu
 </div>
 
 ## Sınıf Diyagramı
-
+````
+Genel anlamda aşağıdaki diyagram yapısı takip edilmiş olup kodlama aşamasında bazı eklemeler yapıldı
+````
 <div>
 <table>
   <tr>
