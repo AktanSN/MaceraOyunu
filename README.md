@@ -12,7 +12,7 @@ Java ile metin tabanlı bir macera oyunu
 
 ## Sınıf Diyagramı
 <div>
-<img src="https://user-images.githubusercontent.com/58556840/163719204-06a7393d-35bd-412b-bc7d-ae693c33658e.jpg" width="999" height="750">
+<img src="https://user-images.githubusercontent.com/58556840/163719204-06a7393d-35bd-412b-bc7d-ae693c33658e.jpg" width="1000" height="750">
 &nbsp;
 
 </div>
