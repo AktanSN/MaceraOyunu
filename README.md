@@ -5,9 +5,16 @@ Java ile metin tabanlı bir macera oyunu
 
 
 <div>
-<img src="https://user-images.githubusercontent.com/58556840/163719197-e5595b85-6b01-4965-b87b-8a257856d391.png" width="490" height="400">
-&nbsp;
-<img src="https://user-images.githubusercontent.com/58556840/163719199-93aa23aa-8800-48b9-9cbb-24e9191d5c67.png" width="490" height="400">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <img src="https://user-images.githubusercontent.com/58556840/163719197-e5595b85-6b01-4965-b87b-8a257856d391.png" >
+      </td>
+      <td valign="top" width="50%">
+        <img src="https://user-images.githubusercontent.com/58556840/163719199-93aa23aa-8800-48b9-9cbb-24e9191d5c67.png" >
+      </td>
+    </tr>
+  </table>  
 </div>
 
 ## MEKANLAR
