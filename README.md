@@ -144,7 +144,7 @@ ve sağlık puanını artırıp aldığı darbeleri bloklamasını sağlayabiliy
               <li>1 Para Kazanma İhtimali: 50%</li>
             </ul>
           </li>
-          <li>Hiç birşey kazanamama ihtimali : 45%</li>
+          <li>Hiçbir şey kazanamama ihtimali : 45%</li>
         </ul>
       </td>
     </tr>
