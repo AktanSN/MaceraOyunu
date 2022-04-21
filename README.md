@@ -105,6 +105,49 @@ ve sağlık puanını artırıp aldığı darbeleri bloklamasını sağlayabiliy
         </ul>
       </td>
     </tr>
+    <tr>  
+      <td valign="top" width="33%">
+        <ul>
+          <li>Maden
+            <ul>
+              <li>Canavar : Yılan (1-5 Adet)</li>
+              <li>Özellik : Savaş + Ganimet</li>
+              <li>Eşya : Para, Silah veya Zırh</li>
+            </ul>
+          </li>
+          <li>Silah Kazanma İhtimali : 15%
+            <ul>
+              <li>Tüfek Kazanma İhtimali : 20%</li>
+              <li>Kılıç Kazanma İhtimali : 30%</li>
+              <li>Tabanca Kazanma İhtimali : 50%</li>
+            </ul>
+          </li>     
+        </ul>
+      </td>
+      <td valign="top" width="33%">
+        <ul>
+          <li>Zırh Kazanma İhtimali : 15%
+            <ul>
+              <li>Ağır Zırh Kazanma İhtimali : 20%</li>
+              <li>Orta Zırh Kazanma İhtimali : 30%</li>
+              <li>Hafif Zırh Kazanma İhtimali : 50%</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+      <td valign="top" width="33%">
+        <ul>
+          <li>Para Kazanma İhtimali : 25%
+            <ul>
+              <li>10 Para Kazanma İhtimali: 20%</li>
+              <li>5 Para Kazanma İhtimali: 30%</li>
+              <li>1 Para Kazanma İhtimali: 50%</li>
+            </ul>
+          </li>
+          <li>Hiç birşey kazanamama ihtimali : 45%</li>
+        </ul>
+      </td>
+    </tr>
   </table>  
 </div>
 
