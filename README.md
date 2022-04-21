@@ -2,11 +2,11 @@
 ````
 Java ile metin tabanlı bir macera oyunu
 
-Oyunun içerisinde belirli savaş bölgeleri mevcut ve bu savaş bölgelerindeki canavarlar ile seçilen karakterin savaşması 
-isteniyor. Her canavar yendiğinde belirli bir ödül, her bölgeyi tamamladığında ise o bölgenin ganimetini kazanıyorsun. 
-Bütün bölge ganimetleri toplanıp güvenli eve dönüldüğünde oyun bitmiş oluyor. Güvenli ev her bölge tamamlandıktan sonra 
-can yenilemek için gelinmesi gereken bir ana nokta. Ayrıca karakteri güçlendirmek için mağazadan zırh veya silah alarak 
-karakterin hasar ve sağlık puanını artırıp aldığı darbeleri bloklamasını sağlayabiliyorsun.
+Oyunun içerisinde belirli savaş bölgeleri mevcut ve bu savaş bölgelerindeki canavarlar ile seçilen karakterin 
+savaşması isteniyor. Her canavar yendiğinde belirli bir ödül, her bölgeyi tamamladığında ise o bölgenin ganimetini 
+kazanıyorsun. Bütün bölge ganimetleri toplanıp güvenli eve dönüldüğünde oyun bitmiş oluyor. Güvenli ev her bölge 
+tamamlandıktan sonra can yenilemek için gelinmesi gereken bir ana nokta. Ayrıca karakteri güçlendirmek için 
+mağazadan zırh veya silah alarak karakterin hasar ve sağlık puanını artırıp aldığı darbeleri bloklamasını sağlayabiliyorsun.
 ````
 ## Console Ekranı Resimleri
 </table>
